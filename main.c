@@ -1,14 +1,14 @@
 /*
 Observação: Para utilizar o código com esse arquivo main é necessário
 ajustar o caminho que importa o arquivo da implementação da árvore
-AVL, ou seja, o "#include <C:\Users\UFSCar\Downloads\AED2\avl.h>"
+AVL, ou seja, o "#include <C:\Users\...\...\...\avl.h>"
 presente na linha 11.
 */
 
 //Bibliotecas
 #include <stdio.h>
 #include <stdlib.h>
-#include <C:\Users\UFSCar\Downloads\AED2\avl.h>
+#include <C:\Users\...\...\...\avl.h>"
 
 //Programa principal
 int main(){
